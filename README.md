@@ -6,8 +6,8 @@ Technologies Used:
 
 - HTML5, CSS3, JavaScript
 
-- EmailJS API (contact form)
+- Google Fonts API
 
-- GitHub API (display repositories)
+- Google Drive Embed (Iframe Integration)
 
-- Leaflet/OpenStreetMap API (location map)
+- FormSubmit API (Email Processing Service)
